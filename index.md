@@ -8,7 +8,7 @@ Most of the projects are presented in the form of Jupyter notebooks.
 **Table of Contents**
 
  - [Machine Learning](#machine-learning)
-   - *[Personalized Cancer Diagnosis](#Personalized-Cancer-Diagnosis)*
+   - *[Personalized Cancer Diagnosis](#personalized-cancer-diagnosis)*
    - *[Facebook Friend Recommendation using Graph Mining](#dcgan-deep-convolutional-generative-adversarial-networks)*
    - *[NYC Taxi Demand Prediction](#face-generator)*
    - *[Microsoft Malware Detection](#image-classification)*
