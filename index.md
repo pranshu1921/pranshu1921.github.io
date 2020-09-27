@@ -9,28 +9,28 @@ Most of the projects are presented in the form of Jupyter notebooks.
 
  - [Machine Learning](#machine-learning)
    - *[Personalized Cancer Diagnosis](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#personalised-cancer-diagnosis)*
-   - *[Facebook Friend Recommendation using Graph Mining](#dcgan-deep-convolutional-generative-adversarial-networks)*
-   - *[NYC Taxi Demand Prediction](#face-generator)*
-   - *[Microsoft Malware Detection](#image-classification)*
-   - *[Quora Question Pair Similarity Problem](#train-a-quadcopter-how-to-fly)*
-   - *[Stackoverflow Tag Predictor](#deep-qlearning-for-cart-pole)*
-   - *[Amazon Fashion Discovery Engine](#train-a-self-driving-car)*
-   - *[Netflix Movie Recommendation System](#topic-modeling)*
-   - *[Amazon Fine Food Reviews](#word-embeddings)*
-   - *[Battle of Neighborhoods](#finding-donors-for-charityml)*
-   - *[Twitter Sentiments Analysis](#creating-customer-segments)*
+   - *[Facebook Friend Recommendation using Graph Mining](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#facebook-friend-recommendation-using-graph-mining)*
+   - *[NYC Taxi Demand Prediction](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#nyc-taxi-demand-prediction)*
+   - *[Microsoft Malware Detection](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#microsoft-malware-detection)*
+   - *[Quora Question Pair Similarity Problem](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#quora-question-pair-similarity)*
+   - *[Stackoverflow Tag Predictor](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#stackoverflow-tag-predictor)*
+   - *[Amazon Fashion Discovery Engine](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#amazon-fashion-discovery-engine)*
+   - *[Netflix Movie Recommendation System](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#netflix-movie-recommendation-system)*
+   - *[Amazon Fine Food Reviews](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#amazon-fine-food-reviews)*
+   - *[Battle of Neighborhoods](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#the-battle-of-neighborhoods)*
+   - *[Twitter Sentiments Analysis](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#twitter-sentiments-analysis)*
   
- - [Data Analysis and Visualizations](#artificial-intelligence)
-   - *[FIFA 2018 World's Best XI](#adversial-search)*
-   - *[Nobel Prize Winners Visual History](#clasical-search)*
-   - *[The Android App Market on Google Play](#coding-a-neural-network)*
-   - *[Risk and Returns : The Sharpe Ratio](#predicting-boston-housing-prices)*
-   - *[Reducing Traffic Mortality in USA](#titanic-survival-exploration)*
-   - *[Generating Keywords for Google Ads](#coding-a-neural-network)*
-   - *[Exploring the history of 67 years of LEGO](#predicting-boston-housing-prices)*
+ - [Data Analysis and Visualizations](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#data-analysis-and-visualizations-projects)
+   - *[FIFA 2018 World's Best XI](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#fifa-2018-worlds-best-xi)*
+   - *[Nobel Prize Winners Visual History](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#nobel-prize-winners-visual-history)*
+   - *[The Android App Market on Google Play](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#the-android-app-market-on-google-play)*
+   - *[Risk and Returns : The Sharpe Ratio](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#risk-and-returns--the-sharpe-ratio)*
+   - *[Reducing Traffic Mortality in USA](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#reducing-traffic-mortality-in-usa)*
+   - *[Generating Keywords for Google Ads](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#reducing-traffic-mortality-in-usa)*
+   - *[Exploring the history of 67 years of LEGO](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#exploring-the-history-of-67-years-of-lego)*
    
- - [SQL projects](#machine-learning)
-   - *[Analyze International Debt Statistics](#price-prediction-for-ecommerce-products)*
+ - [SQL projects](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#sql-projects)
+   - *[Analyze International Debt Statistics](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#analyzing-international-debt-statistics)*
    
 - [Micro ML projects](#machine-learning)
    - *[Cricket Chirps Linear Regression](#price-prediction-for-ecommerce-products)*
