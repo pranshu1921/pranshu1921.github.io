@@ -115,6 +115,7 @@ This project involved a Kaggle competition hosted by Quora.com for finding which
 - Compared Logistic Regression, Linear SVM, and XGBoost for finding the best model for classification.
 <br>
 <br>
+
 *[View Source](https://github.com/pranshu1921/Quora-Question-Pair-Similarity)*
 
 
