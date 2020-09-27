@@ -8,7 +8,7 @@ Most of the projects are presented in the form of Jupyter notebooks.
 **Table of Contents**
 
  - [Machine Learning](#machine-learning)
-   - *[Personalized Cancer Diagnosis](#price-prediction-for-ecommerce-products)*
+   - *[Personalized Cancer Diagnosis](#Personalized-Cancer-Diagnosis)*
    - *[Facebook Friend Recommendation using Graph Mining](#dcgan-deep-convolutional-generative-adversarial-networks)*
    - *[NYC Taxi Demand Prediction](#face-generator)*
    - *[Microsoft Malware Detection](#image-classification)*
@@ -246,10 +246,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pranshu1921/pranshu1921.gitub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If you liked what you've seen, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to reach out:
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Email: pranshu1921@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/pranshu-kumar/)
+* Twitter: @Pranshu1921
