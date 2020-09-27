@@ -57,6 +57,8 @@ This machine learning case study involves analyzing _**Memorial Sloan Kettering 
 ### Facebook Friend Recommendation using Graph Mining
 > **Keywords**: Facebook | Graph-Mining | Supervised Learning | XGBoost | Kaggle. *[View Source](https://github.com/pranshu1921/Facebook-Friend-Recommenation-Graph-Mining)*
 
+![](https://www.analyticsvidhya.com/wp-content/uploads/2014/07/graph_social_networking.jpg)
+
 The project involves using data from the FacebookRecruiting challenge on Kaggle to predict missing links from a given directed social graph to recommend users. This is a supervised machine learning problem.
 Generated training samples of good and bad links from given directed graph and for each link got some features like no of followers, is he followed back, page rank, katz score, adar index, some svd fetures of adj matrix, some weight features etc. and trained ml model based on these features to predict link.
 
