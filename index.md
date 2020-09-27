@@ -8,7 +8,7 @@ Most of the projects are presented in the form of Jupyter notebooks.
 **Table of Contents**
 
  - [Machine Learning](#machine-learning)
-   - *[Personalized Cancer Diagnosis](#personalized-cancer-diagnosis)*
+   - *[Personalized Cancer Diagnosis](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#personalised-cancer-diagnosis)*
    - *[Facebook Friend Recommendation using Graph Mining](#dcgan-deep-convolutional-generative-adversarial-networks)*
    - *[NYC Taxi Demand Prediction](#face-generator)*
    - *[Microsoft Malware Detection](#image-classification)*
