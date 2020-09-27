@@ -222,7 +222,7 @@ The project deals with applying time series data in R on a dataset for decomposi
 
 This project involves implementing Decision trees, k-means clusters and density based clusters on Iris dataset in R.
 
-
+--
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
