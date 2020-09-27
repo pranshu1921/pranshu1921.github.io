@@ -1,4 +1,4 @@
-## Data Science Portfolio
+## Welcome
 
 Hi, I am Pranshu Kumar.
 Welcome to my Data Science portfolio page. This contains all my Data Science projects completed for academic, self learning, and professional consideration.
