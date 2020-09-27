@@ -49,8 +49,9 @@ Most of the projects are presented in the form of Jupyter notebooks.
 ## Machine Learning Projects
 
 
-### Personalised Cancer Diagnosis  
-> **Keywords**: MSKCC | Genetic-Variations | Classification | Genetic-Mutations | Neutral-Mutations. *[View Source](https://github.com/pranshu1921/Personalised-Cancer-Diagnosis)*.
+### Personalised Cancer Diagnosis *[View Source](https://github.com/pranshu1921/Personalised-Cancer-Diagnosis)*.
+**Keywords**:
+> MSKCC | Genetic-Variations | Classification | Genetic-Mutations | Neutral-Mutations. 
 
 ![](https://storage.googleapis.com/kaggle-competitions/kaggle/6841/media/79842_Web-hero-image_ALT-3.jpg)
 
