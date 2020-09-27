@@ -7,7 +7,7 @@ Most of the projects are presented in the form of Jupyter notebooks.
 
 **Table of Contents**
 
- - [Machine Learning](#machine-learning)
+ - [Machine Learning](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#machine-learning-projects)
    - *[Personalized Cancer Diagnosis](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#personalised-cancer-diagnosis)*
    - *[Facebook Friend Recommendation using Graph Mining](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#facebook-friend-recommendation-using-graph-mining)*
    - *[NYC Taxi Demand Prediction](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#nyc-taxi-demand-prediction)*
@@ -32,23 +32,25 @@ Most of the projects are presented in the form of Jupyter notebooks.
  - [SQL projects](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#sql-projects)
    - *[Analyze International Debt Statistics](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#analyzing-international-debt-statistics)*
    
-- [Micro ML projects](#machine-learning)
-   - *[Cricket Chirps Linear Regression](#price-prediction-for-ecommerce-products)*
-   - *[Bigmart Sales Prediction](#dcgan-deep-convolutional-generative-adversarial-networks)*
-   - *[Iris Data Logistic Regression](#face-generator)*
-   - *[Random Password Generator](#image-classification)*
-   - *[Rock Paper Scissors](#train-a-quadcopter-how-to-fly)*
-   - *[KNN CLassifier on Titanic Dataset](#deep-qlearning-for-cart-pole)*
+- [Micro ML projects](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#micro-mlpython-projects)
+   - *[Cricket Chirps Linear Regression](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#cricket-chirps-linear-regression)*
+   - *[Bigmart Sales Prediction](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#bigmart-sales-prediction)*
+   - *[Iris Data Logistic Regression](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#iris-data-logistic-regression)*
+   - *[Random Password Generator](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#random-password-generator)*
+   - *[Rock Paper Scissors](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#rock-paper-scissors)*
+   - *[KNN CLassifier on Titanic Dataset](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#knn-classifier-on-titanic-dataset)*
    
-- [R Projects](#machine-learning)
-   - *[NYC Births Time Series](#price-prediction-for-ecommerce-products)*
-   - *[Clustering, Decision Tree on Iris data](#dcgan-deep-convolutional-generative-adversarial-networks)*   
+- [R Projects](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#r-projects)
+   - *[NYC Births Time Series](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#nyc-births-time-series)*
+   - *[Clustering, Decision Tree on Iris data](https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/index.md#clustering-decision-tree-on-iris-data)*   
    
    
 ## Machine Learning Projects
 
 ### Personalised Cancer Diagnosis  
 > **Keywords**: MSKCC | Genetic-Variations | Classification | Genetic-Mutations | Neutral-Mutations. *[View Source](https://github.com/pranshu1921/Personalised-Cancer-Diagnosis)*.
+
+![](https://storage.googleapis.com/kaggle-competitions/kaggle/6841/media/79842_Web-hero-image_ALT-3.jpg)
 
 This machine learning case study involves analyzing _**Memorial Sloan Kettering Cancer Center (MSKCC)**_ data for predicting the effect of **genetic variations in the cancer tumors** for enabling personalised medicine. By given data, we classify the given **genetic variations/mutations** based on evidence from text-based clinical literature.
 
