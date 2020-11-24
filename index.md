@@ -54,7 +54,9 @@ Most of the projects are presented in the form of Jupyter notebooks.
 **Keywords**:
 > MSKCC | Genetic-Variations | Classification | Genetic-Mutations | Neutral-Mutations. 
 
-![](https://storage.googleapis.com/kaggle-competitions/kaggle/6841/media/79842_Web-hero-image_ALT-3.jpg)
+<p align="center">
+  <img src="https://storage.googleapis.com/kaggle-competitions/kaggle/6841/media/79842_Web-hero-image_ALT-3.jpg" />
+</p>
 
 This machine learning case study involves analyzing _**Memorial Sloan Kettering Cancer Center (MSKCC)**_ data for predicting the effect of **genetic variations in the cancer tumors** for enabling personalised medicine. By given data, we classify the given **genetic variations/mutations** based on evidence from text-based clinical literature.
 <br>
