@@ -54,7 +54,7 @@ Most of the projects are presented in the form of Jupyter notebooks.
 **Keywords**:
 > MSKCC | Genetic-Variations | Classification | Genetic-Mutations | Neutral-Mutations. 
 
-<p align="center">
+<p align="left">
   <img src="https://storage.googleapis.com/kaggle-competitions/kaggle/6841/media/79842_Web-hero-image_ALT-3.jpg" />
 </p>
 
