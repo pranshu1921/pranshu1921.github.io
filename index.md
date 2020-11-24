@@ -155,7 +155,7 @@ It uses dataset provided in the **['Facebook Recruiting III - Keyword Extraction
 > Recommendation-system | content-based | Word2Vec | Tf-Idf | BagofWords | CNN | Keras | Gensim. 
 
 <p align="center">
-  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/amazon2.jpg?raw=true"/>
+  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/amazon2.jpg?raw=true width="600" height="400"/>
 </p> 
 
 This is a content based recommendation engine for recommending apparel items or products at Amazon, using text and image data retreived from website. Suggested text based recommendations using **Bag of Words (BoW)**, **Word2Vec** and **TF-IDF** techniques. Made image based recommendations using **Convolutional Neural Network(CNN)**.
@@ -170,7 +170,7 @@ This is a content based recommendation engine for recommending apparel items or 
 >  Recommendation-system | Regression | Cinematch | XGBoost | XGBoost | KNN. 
 
 <p align="center">
-  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/netflix.jpg?raw=true"/>
+  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/netflix.jpg?raw=true width="500" height="400"/>
 </p> 
 
 A classic recommendation system machine learning problem to predict movie rating to be given by a user that he/she has not yet rated on [Netflix](https://www.netflix.com).
@@ -187,7 +187,7 @@ Data is picked up from [this](https://www.kaggle.com/netflix-inc/netflix-prize-d
 > NLP | Porter-Stemmer | Bag-of-Words | Beautiful-Soup | n-grams | Tf-Idf | Word2Vec. 
 
 <p align="center">
-  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/amazon.png?raw=true"/>
+  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/amazon.png?raw=true width="400" height="400"/>
 </p> 
 
 This is a _**Natural Language Processing(NLP)**_ based project that uses data provided on the [**'Amazon Fine Food reviews'**](https://www.kaggle.com/snap/amazon-fine-food-reviews/tasks?taskId=797) challenge posted on Kaggle, to determine the polarity of a given user review, following a score/rating of 4 or 5 considered positive, 1 or 2 negative and 3 neutral and ignored.
@@ -202,7 +202,7 @@ This is a _**Natural Language Processing(NLP)**_ based project that uses data pr
 >  Capstone | Unsupervised-Learning | K-Means | Clustering | Londom-crimes | Beautiful-Soup | Google-Maps-API. 
 
 <p align="center">
-  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/battle.PNG?raw=true"/>
+  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/battle.PNG?raw=true width="500" height="500"/>
 </p> 
 
 This is the the Capstone Project - The Battle of the Neighborhoods for the  Applied Data Science Capstone by IBM/Coursera.
@@ -217,7 +217,7 @@ This project aims to select the safest borough in London based on the total crim
 >  Non-negative-matrix-factorization | Tf-Idf | Stopwords | wordcloud. 
 
 <p align="center">
-  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/twitter.png?raw=true"/>
+  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/twitter.png?raw=true width="300" height="300"/>
 </p> 
 
 This repository contains a comprehensive Jupyter notebook to discover and visualize topics from a corpus of Twitter tweets.
@@ -237,7 +237,7 @@ Calculated tf-idf matrix for non-negative matrix factorization, filtering stop w
 >  FIFA | Pandas | Numpy | Matplotlib. 
 
 <p align="center">
-  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/fifa.jpg?raw=true"/>
+  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/fifa.jpg?raw=true width="400" height="400"/>
 </p> 
 
 Once in every 4 years, we celebrate FIFA World Cup. All priorities change to footbaall, and all predications change to the teams and players that perform in the tournament. So, it was quite exciting to "Predict the World's Best XI players" in FIFA 2018 using Python for Data Analysis.
@@ -252,7 +252,7 @@ Once in every 4 years, we celebrate FIFA World Cup. All priorities change to foo
 >  Nobel-Prize | Python | Pandas | Numpy | Matplotlib. 
 
 <p align="center">
-  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/nobel2.jpg?raw=true"/>
+  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/nobel2.jpg?raw=true width="400" height="400"/>
 </p> 
 
 The Nobel Foundation has made a dataset available of all prize winners from the start of the prize, in 1901, to 2016.
@@ -268,7 +268,7 @@ This data analytics project is all about analyzing data of all Nobel Prize winne
 >  Sentiment-Analysis| Seaborn | Pandas | Numpy | Matplotlib. 
 
 <p align="center">
-  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/playstore.jpg?raw=true"/>
+  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/playstore.jpg?raw=true width="400" height="400"/>
 </p> 
 
 This data analytics project analyzes the Google Play Store data by comparison of apps across categories to look for data insights to devise strategies to **drive growth and retention**.
@@ -283,7 +283,7 @@ This data analytics project analyzes the Google Play Store data by comparison of
 >  Sharpe-Ratio| Facebook | Amazon | Seaborn | Pandas | Numpy | Matplotlib. 
 
 <p align="center">
-  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/sharpe.jpg?raw=true"/>
+  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/sharpe.jpg?raw=true width="400" height="400"/>
 </p> 
 
 The Sharpe ratio is usually calculated for a portfolio and uses the risk-free interest rate as benchmark. We will simplify our example and use stocks instead of a portfolio. We explore Facebook and Amazon stocks and calculate the Sharpe ratio, for analysis using Python.
@@ -298,7 +298,7 @@ The Sharpe ratio is usually calculated for a portfolio and uses the risk-free in
 >  Data-Wrangling | Clustering | Principal-Component-Analysis | Linear-Regression. 
 
 <p align="center">
-  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/traffic.jpg?raw=true"/>
+  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/traffic.jpg?raw=true width="400" height="400"/>
 </p> 
 
 We analyze data collected by the _**National Highway Traffic Safety Administration**_ and _**the National Association of Insurance Commissioners**_ to wrangle, plot, dimensionally reduce and cluster data to make an attempt to find patterns and help _**reduce Traffic Mortality in USA**_.
@@ -313,7 +313,7 @@ We analyze data collected by the _**National Highway Traffic Safety Administrati
 > Google-AdWords| Python | Pandas | exact-match. 
 
 <p align="center">
-  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/adwords.png"/>
+  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/adwords.png width="400" height="400"/>
 </p> 
 
 This analysis project focuses on generating keywords for ad campaigns for triggering the right ad using Google AdWords using Python.
@@ -328,7 +328,7 @@ This analysis project focuses on generating keywords for ad campaigns for trigge
 >  LEGO| Python | Pandas. 
 
 <p align="center">
-  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/LEGO.jpg?raw=true"/>
+  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/LEGO.jpg?raw=true width="400" height="400"/>
 </p>
 
 This data analysis micro project explores the glorious 67 years of LEGO database provided by [Rebrickable](https://rebrickable.com/downloads/).
@@ -346,7 +346,7 @@ This data analysis micro project explores the glorious 67 years of LEGO database
 > Sqlite | mySQL | aggregate-functions | ddl-commands | dml-commands. 
 
 <p align="center">
-  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/debt.jpg?raw=true"/>
+  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/debt.jpg?raw=true width="350" height="350"/>
 </p>
 
 This is a SQL project which analyzes the international debt data collected by the [World Bank](https://www.worldbank.org/).
@@ -366,7 +366,7 @@ We seek to find total debt owned by conuntries, the country with the highest deb
 > Linear-Regression | Harvard-College-Press. 
 
 <p align="center">
-  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/cricket.png?raw=true"/>
+  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/cricket.png?raw=true width="350" height="350"/>
 </p>
 
 THis repo contains files including Jupyter notebook that containing a walkthrough about using Linear Regression for predicting temperature from the number of chirps from the 'The Song of Insects', by Dr. G. W. Pierce, Harvard College Press, using Linear Regression.
@@ -381,7 +381,7 @@ THis repo contains files including Jupyter notebook that containing a walkthroug
 > Logistic-Regression | Regression-problem. 
 
 <p align="center">
-  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/bigmart.png?raw=true"/>
+  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/bigmart.png?raw=true width="300" height="300"/>
 </p>
 
 his repo contains the project of predicting the Big mart sales using Logistic Regression.
@@ -397,7 +397,7 @@ As the name suggests, the dataset comprises of transaction records of a sales st
 > Classification | Logistic-Regression. 
 
 <p align="center">
-  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/iris.png?raw=true"/>
+  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/iris.png?raw=true width="400" height="350"/>
 </p>
 
 The Iris Flower data set is probably the most versatile, easy and resourceful dataset in pattern recognition literature.
@@ -413,7 +413,7 @@ We created a classification (Logistic Regression) model to predict the class of 
 > ASCII | Python. 
 
 <p align="center">
-  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/password.jpg?raw=true"/>
+  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/password.jpg?raw=true width="350" height="350"/>
 </p>
 
 A Python script to generate a random password of 8 characters in accordance with ASCII code.
@@ -461,7 +461,7 @@ Implemented KNN-Classifier on the cleaned version of the very known 'Titanic Sur
 >  Time-Series | ARIMA | Auto-Correlation | Exponential-Smoothing. 
 
 <p align="center">
-  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/NYC.jpg?raw=true"/>
+  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/NYC.jpg?raw=true width="400" height="400"/>
 </p>
 
 The project deals with applying time series data in R on a dataset for decomposing the **seasonal time series, forecasting** using **Exponential Smoothing** and using **ARIMA** to address issues of correlations between successive values of time series on data of **number of births per month in New York city, from January 1946 to December 1959**.
@@ -476,7 +476,7 @@ The project deals with applying time series data in R on a dataset for decomposi
 > Kmeans-clustering | decision-trees | density-based-clustering | R-programming. 
 
 <p align="center">
-  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/iris.jpg?raw=true"/>
+  <img src="https://github.com/pranshu1921/pranshu1921.github.io/blob/gh-pages/photo/iris.jpg?raw=true width="400" height="400"/>
 </p>
 
 This project involves implementing Decision trees, k-means clusters and density based clusters on Iris dataset in R.
