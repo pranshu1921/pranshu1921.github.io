@@ -54,7 +54,7 @@ Most of the projects are presented in the form of Jupyter notebooks.
 **Keywords**:
 > MSKCC | Genetic-Variations | Classification | Genetic-Mutations | Neutral-Mutations. 
 
-<p align="left">
+<p align="center">
   <img src="https://storage.googleapis.com/kaggle-competitions/kaggle/6841/media/79842_Web-hero-image_ALT-3.jpg" />
 </p>
 
@@ -69,7 +69,9 @@ This machine learning case study involves analyzing _**Memorial Sloan Kettering 
 
 **Keywords**:
 >  Facebook | Graph-Mining | Supervised Learning | XGBoost | Kaggle. 
-![](https://www.analyticsvidhya.com/wp-content/uploads/2014/07/graph_social_networking.jpg)
+<p align="center">
+  <img src="https://www.analyticsvidhya.com/wp-content/uploads/2014/07/graph_social_networking.jpg" />
+</p>
 
 The project involves using data from the FacebookRecruiting challenge on Kaggle to predict missing links from a given directed social graph to recommend users. This is a supervised machine learning problem.
 Generated training samples of good and bad links from given directed graph and for each link got some features like no of followers, is he followed back, page rank, katz score, adar index, some svd fetures of adj matrix, some weight features etc. and trained ml model based on these features to predict link.
